@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">卢卢工具箱</string>
+    <string name="app_name_jingjing">婧婧工具箱</string>
+    <string name="app_name_yangyang">阳阳工具箱</string>
+    <string name="convert">转换</string>
+    <string name="clear">清空输入</string>
+    <string name="introduction">说明：\n解码字符串成人类可以阅读的类型\n(尤其是校园卡里的数据)</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lulubox</string>
+    <string name="app_name_jingjing">jingjingbox</string>
+    <string name="app_name_yangyang">yangyangbox</string>
+    <string name="convert">convert</string>
+    <string name="clear">clear</string>
+    <string name="defaultCharset" translatable="false">GBK</string>
+    <string name="resultExample" translatable="false">男</string>
+    <string name="hexStringExample" translatable="false">C4D0</string>
+    <string name="introduction">Introduction:\nDecode text from encoded one into human version\n(Especially data in campus IC card)</string>
+</resources>
